@@ -1,0 +1,6 @@
+First Name|Last Name|Age
+John | Doe | 20
+Sally | Mae | 26
+David | Black | 33
+Betty | Crocker | 51
+Iron | Man | 40
